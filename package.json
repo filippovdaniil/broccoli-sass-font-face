@@ -1,0 +1,16 @@
+{
+  "name": "broccoli-sass-font-face",
+  "description": "@font-face generator for broccoli",
+  "version": "0.0.0",
+  "author": "Daniil Filippov <filippovdaniil@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filippovdaniil/broccoli-sass-image-vars"
+  },
+  "dependencies": {
+    "mkdirp": "~0.5.0",
+    "broccoli-caching-writer": "~0.5.4"
+  }
+}
